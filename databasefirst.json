@@ -1,10 +1,10 @@
 [{
         "name": "Vega EVX",
         "description": "Vega Innovations is an electric vehicle (EV) automobile manufacture of electric super cars, based in Colombo, Sri Lanka. Vega also designs and manufactures EV components such as high performance inverters, drivetrains and battery packs as well as provide EV research and development (R&D) services to clients worldwide. Founded in 2013 December by Dr. Harsha Subasinghe CEO of CodeGen International and Dr Beshan Kulapala, with a vision of building high performance, cost effective, sustainable technologies to disrupt the EV market. On its six year journey, Vega has developed South Asia’s first electric super car, Vega EVX, and will be unveiled at the Geneva International Motor Show in March 2020. Vega is also developing alternative, mass market, transportation vehicles with its international partners. Vega Innovations is a startup company, part of CodeGen International.",
-        "Rating": "8.16",
+        "Rating": "250Kmh",
         "episode": 500,
-        "categorie": "Animation | Drama | Adventure",
-        "studio": "Studio Pierrot",
+        "categorie": "EVX",
+        "studio": "CodeGen International",
         "img": "https://cdn.carbuzz.com/gallery-images/840x560/664000/200/664269.jpg"
     }, {
         "name": "One Piece",
