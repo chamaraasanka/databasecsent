@@ -1,19 +1,19 @@
 [{
         "name": "Vega EVX",
         "description": "Vega Innovations is an electric vehicle (EV) automobile manufacture of electric super cars, based in Colombo, Sri Lanka. Vega also designs and manufactures EV components such as high performance inverters, drivetrains and battery packs as well as provide EV research and development (R&D) services to clients worldwide. Founded in 2013 December by Dr. Harsha Subasinghe CEO of CodeGen International and Dr Beshan Kulapala, with a vision of building high performance, cost effective, sustainable technologies to disrupt the EV market. On its six year journey, Vega has developed South Asia’s first electric super car, Vega EVX, and will be unveiled at the Geneva International Motor Show in March 2020. Vega is also developing alternative, mass market, transportation vehicles with its international partners. Vega Innovations is a startup company, part of CodeGen International.",
-        "Rating": "250Kmh",
+        "Rating": "150mph",
         "episode": 500,
         "categorie": "EVX",
         "studio": "CodeGen International",
         "img": "https://cdn.carbuzz.com/gallery-images/840x560/664000/200/664269.jpg"
     }, {
-        "name": "One Piece",
-        "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
-        "Rating": "8.54",
+        "name": "Aiways u5",
+        "description": "The car itself is quite handsome and resembles the popular Hyundai Kona in appearance. According to Electrive, the U5 is 4.70 meters long with a 140 kW motor driving the front wheels. Range is said to be 460 kilometers | 286 miles in the discredited NEDC test cycle. Expect real world range of about 240 miles | 386 km once all the conversions are done.Prices have not yet been announced but rumors in the European media hit of a base price of about €25,000. If that is true, Aiways can expect quite a few customers queuing up to buy a U5.  The company says it expects to being selling the U5 next year beginning in Norway before expanding sales to Sweden and Germany.",
+        "Rating": "190mph",
         "episode": 700,
-        "categorie": "Animation | Drama | Adventure",
-        "studio": "Toei Animation",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+        "categorie": "SUV",
+        "studio": "Aiways",
+        "img": "https://www.electrive.com/wp-content/uploads/2018/11/aiways-u5-ion-concept-car-2018-02.png"
     }, {
         "name": "Attack on Titan",
         "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
