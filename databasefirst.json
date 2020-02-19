@@ -1,6 +1,6 @@
 [{
         "name": "Vega EVX",
-        "description": "Vega Innovations is an electric vehicle (EV) automobile manufacture of electric super cars, based in Colombo, Sri Lanka. Vega also designs and manufactures EV components such as high performance inverters, drivetrains and battery packs as well as provide EV research and development (R&D) services to clients worldwide. Founded in 2013 December by Dr. Harsha Subasinghe CEO of CodeGen International and Dr Beshan Kulapala, with a vision of building high performance, cost effective, sustainable technologies to disrupt the EV market. On its six year journey, Vega has developed South Asia’s first electric super car, Vega EVX, and will be unveiled at the Geneva International Motor Show in March 2020. Vega is also developing alternative, mass market, transportation vehicles with its international partners. Vega Innovations is a startup company, part of CodeGen International.",
+        "description": "Vega Innovations is an electric vehicle (EV) \n automobile manufacture of electric super cars, based in Colombo, Sri Lanka. Vega also designs and manufactures EV components such as high performance inverters, drivetrains and battery packs as well as provide EV research and development (R&D) services to clients worldwide. Founded in 2013 December by Dr. Harsha Subasinghe CEO of CodeGen International and Dr Beshan Kulapala, with a vision of building high performance, cost effective, sustainable technologies to disrupt the EV market. On its six year journey, Vega has developed South Asia’s first electric super car, Vega EVX, and will be unveiled at the Geneva International Motor Show in March 2020. Vega is also developing alternative, mass market, transportation vehicles with its international partners. Vega Innovations is a startup company, part of CodeGen International.",
         "Rating": "150mph",
         "episode": 500,
         "categorie": "EVX",
@@ -63,7 +63,7 @@
         "studio": "Studio Pierrot",
         "img": "https://c4d709dd302a2586107d-f8305d22c3db1fdd6f8607b49e47a10c.ssl.cf1.rackcdn.com/thumbnails/stock-images/5f38df7ff77817c8e449918e3d6ce1d0.png"
     }, {
-        "name": "Sword Art Online",
+        "name": "Sword Art Online2020 Toyota Yaris",
         "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
         "Rating": "7.66",
         "episode": 25,
