@@ -3,7 +3,7 @@
         "description": "Vega Innovations is an electric vehicle (EV) \n automobile \n manufacture of electric super cars, based in Colombo, Sri Lanka. Vega also designs and manufactures EV components such as high performance inverters, drivetrains and battery packs as well as provide EV research and development (R&D) services to clients worldwide. Founded in 2013 December by Dr. Harsha Subasinghe CEO of CodeGen International and Dr Beshan Kulapala, with a vision of building high performance, cost effective, sustainable technologies to disrupt the EV market. On its six year journey, Vega has developed South Asia’s first electric super car, Vega EVX, and will be unveiled at the Geneva International Motor Show in March 2020. Vega is also developing alternative, mass market, transportation vehicles with its international partners. Vega Innovations is a startup company, part of CodeGen International.",
         "Rating": "150mph",
         "episode": 500,
-        "categorie": "EV Sport car",
+        "categorie": "EV Super car",
         "studio": "0-60mph --> 3.15 s",
         "img": "https://cdn.carbuzz.com/gallery-images/840x560/664000/200/664269.jpg"
     }, {
@@ -15,13 +15,13 @@
         "studio": "0-60mph --> 2.5 s",
         "img": "https://www.electrive.com/wp-content/uploads/2018/11/aiways-u5-ion-concept-car-2018-02.png"
     }, {
-        "name": "Audi A3 Sportback",
-        "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
-        "Rating": "8.50",
+        "name": "BENTLEY GT No 9",
+        "description": "entley has created the ultimate collector’s version of the all-new Continental GT to celebrate the company’s centenary in 2019.The Continental GT Number 9 Edition by Mulliner is inspired by Bentley’s illustrious motorsport past and incorporates a number of distinctive features into the world’s most luxurious Grand Tourer. Just 100 examples will be handbuilt by Mulliner in Crewe, England, based on the Continental GT this year",
+        "Rating": "207mph",
         "episode": 500,
         "categorie": "Sedan",
-        "studio": "Wit Studio",
-        "img": "https://audimediacenter-a.akamaihd.net/system/production/media/30150/images/7023edb5306d55d77f5724f609a2ed18f8d18e8a/A161803_x500.jpg?1459860672"
+        "studio": "0-60mph --> 3.6 s",
+        "img": "https://1.bp.blogspot.com/-Kff4eCUwiNY/Xk1ZlJVgdyI/AAAAAAAAJPk/MdDDsYgkcwo7uwEA3V4WwLaA8Dsd4dJsgCLcBGAsYHQ/s640/BENTLEY%2BMOTORS%2B-%2BCONTINENTAL%2BGT%2BNUMBER%2B9%2BEDITION.jpg"
     }, {
         "name": "BAC Mono",
         "description": "At the Mono’s heart is a solidly mounted engine, a 280bhp 2.3-litre four-cylinder Cosworth unit to be precise. It sits in the middle (as you’d expect), driving the rear wheels via a six-speed Hewland sequential gearbox and a limited-slip differential. The 0-60 time is well below 3.0sec while the top speed is a claimed 170mph. Its 527bhp/ton power-to-weight ratio is 6bhp better than a Bugatti Veyron's, too.The suspension comprises a racing-style fully adjustable pushrod setup, the brakes come from AP Racing and the Kumho tyres are bespoke-developed for the Mono. Ultimately grabbing the headlines, though, is the Sebastian Vettel cockpit view, with a central, single seat (each customer has their interior fitted around them, as you might hope at this sort of money) and an electronic, button-festooned steering wheel with a flat bottom and top. It’s pure theatre.",
@@ -55,7 +55,7 @@
         "studio": "0-60mph --> 9.9 s",
         "img": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/http://www.blogcdn.com/www.autoblog.com/media/2010/09/01-500-630.jpg"
     }, {
-        "name": "",
+        "name": "kia sorento 2020",
         "description": "The first 2020 Kia Sorento engine option that we will explore is the 2.4L I-4 engine. This engine can be equipped with either FWD or AWD systems. This 185-horsepower engine is able to generate up to 178 pound-feet of torque. With FWD equipped, the 2020 Kia Sorento 2.4L engine allows the SUV to achieve EPA-estimated fuel economy ratings of 22 mpg in the city and 29 mpg on the highway. With AWD equipped, which is only available with the LX trim, the fuel economy ratings are reduced slightly to 21 mpg in the city and 26 mpg on the highway.",
         "Rating": "124mph",
         "episode": 51,
